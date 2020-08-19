@@ -1,2 +1,4 @@
-# -1.Kaggle
-My Kaggle Titanic adventures
+# My Kaggle Titanic adventures
+
+My exploration of Kaggle Titanic Dataset
+https://www.kaggle.com/c/titanic
