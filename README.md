@@ -1,2 +1,2 @@
 # -1.Kaggle
-My Kaggle adventures
+My Kaggle Titanic adventures
